@@ -7,3 +7,24 @@ nav{
 body{
     margin: 0%;
 }
+
+a{
+    color: black;
+    
+}
+
+h1{
+    text-align: center;
+}
+
+.contacts{
+    position:fixed; left: 700px; top: 200px;
+    font-size: 40px;
+}
+
+footer{
+    background-color: #393838;
+    height: 53px;
+    text-align: center;
+    margin: 0%;
+}
