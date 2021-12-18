@@ -1,0 +1,39 @@
+nav{
+    background-color: #cb171e;
+    height: 63.9px;
+    color: black;
+    
+}
+
+body{
+    margin: 0%;
+}
+
+a{
+    color: black;
+   
+}
+
+h1{
+    text-align: center;
+}
+
+.contacts{
+    position:fixed; left: 700px; top: 212px;
+    font-size: 40px;
+}
+
+footer{
+    background-color: #393838;
+    height: 53px;
+    text-align: center;
+    margin: 0%;
+}
+
+.fa{
+    width: 2.5em;
+    height: 2.5em;
+    background: #393838;
+    color: white;
+    
+}
